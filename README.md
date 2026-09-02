@@ -15,5 +15,5 @@
 ### v1.0 — 2026-08-28
 - v1.0
 
-Coming soon:
+## Coming soon:
  - Cookie → Oreo
