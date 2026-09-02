@@ -1,4 +1,4 @@
-# Ressource_Pack_Gueux
+# Ressource Pack Gueux
 
 ## Historique des releases
 
