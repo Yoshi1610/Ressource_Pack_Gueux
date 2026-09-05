@@ -13,7 +13,10 @@
 - Add trad for french user
 
 ### v1.0 — 2026-08-28
-- v1.0
+- replace disc 13 by Lumière (Clair Obscur)
+- replace disc cat by Greenpath OST (Hollow Knight)
+- replace disc blocks by Radiance OST (Hollow Knight=
+- replace disc chirp by Christmas Music (All I Want for Christmas Is You, Mariah Carey)
 
 ## Coming soon:
  - Cookie → Oreo
