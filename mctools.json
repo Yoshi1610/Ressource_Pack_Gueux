@@ -1,0 +1,45 @@
+{
+  "tool": "mctools-musicdisc",
+  "toolVersion": 1,
+  "items": [
+    {
+      "discId": "13",
+      "discName": "13",
+      "displayName": "Lumière",
+      "duration": 222,
+      "volume": 1,
+      "audioPath": "assets/minecraft/sounds/records/13.ogg",
+      "hasCustomTex": false
+    },
+    {
+      "discId": "cat",
+      "discName": "Cat",
+      "displayName": "Greenpath OST",
+      "duration": 217.002104,
+      "volume": 1,
+      "audioPath": "assets/minecraft/sounds/records/cat.ogg",
+      "hasCustomTex": false
+    },
+    {
+      "discId": "blocks",
+      "discName": "Blocks",
+      "displayName": "Radiance OST",
+      "duration": 137.914938,
+      "volume": 1,
+      "audioPath": "assets/minecraft/sounds/records/blocks.ogg",
+      "hasCustomTex": false
+    },
+    {
+      "discId": "chirp",
+      "discName": "Chirp",
+      "displayName": "Christmas Music",
+      "duration": 234.974333,
+      "volume": 2,
+      "audioPath": "assets/minecraft/sounds/records/chirp.ogg",
+      "hasCustomTex": false
+    }
+  ],
+  "format": "java",
+  "pack_name": "13=Lumiere_Cat=Greenpath_Blocks_Radiance_Chirp=Christmas",
+  "as_addon": false
+}

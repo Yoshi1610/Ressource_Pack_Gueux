@@ -1,0 +1,38 @@
+{
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "records/13",
+        "stream": true,
+        "volume": 1
+      }
+    ]
+  },
+  "music_disc.cat": {
+    "sounds": [
+      {
+        "name": "records/cat",
+        "stream": true,
+        "volume": 1
+      }
+    ]
+  },
+  "music_disc.blocks": {
+    "sounds": [
+      {
+        "name": "records/blocks",
+        "stream": true,
+        "volume": 1
+      }
+    ]
+  },
+  "music_disc.chirp": {
+    "sounds": [
+      {
+        "name": "records/chirp",
+        "stream": true,
+        "volume": 2
+      }
+    ]
+  }
+}
